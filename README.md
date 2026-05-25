@@ -4,9 +4,9 @@
 
 ### CS Student @ Pusan National University · Systems & AI Enthusiast
 
-[![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=github&logoColor=white)](https://YOUR_BLOG_URL)
+[![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/nitally0715)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sosze1215@gmail.com)
+
 
 </div>
 
