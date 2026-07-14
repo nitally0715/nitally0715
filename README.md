@@ -40,6 +40,7 @@
 ## 📜 Certifications
 
 - **ADsP** (데이터분석 준전문가) [2025.11.28]
+- ![AWS Cloud Quest: Generative AI Practitioner](https://www.credly.com/badges/2d6018eb-c153-4aa1-ab16-dc813f51c870/public_url) [2026.07.14]
 
 
 ## 🛠️ Tech Stack
