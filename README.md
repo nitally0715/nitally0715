@@ -40,7 +40,7 @@
 ## 📜 Certifications
 
 - **ADsP** (데이터분석 준전문가) [2025.11.28]
-- ![AWS Cloud Quest: Generative AI Practitioner](https://www.credly.com/badges/2d6018eb-c153-4aa1-ab16-dc813f51c870/public_url) [2026.07.14]
+- [AWS Cloud Quest: Generative AI Practitioner](https://www.credly.com/badges/2d6018eb-c153-4aa1-ab16-dc813f51c870/public_url) [2026.07.14]
 
 
 ## 🛠️ Tech Stack
@@ -70,11 +70,11 @@
 
 <div align="center">
 
-![Beomsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitally0715&show_icons=true&theme=tokyonight&hide_border=true)
+[Beomsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitally0715&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nitally0715&theme=tokyonight&hide_border=true)
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nitally0715&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitally0715&layout=compact&theme=tokyonight&hide_border=true)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitally0715&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
