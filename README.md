@@ -16,7 +16,7 @@
 
 - 🔬 현재 **CIS Lab**에서 학부연구생으로 Docker 레이어 최적화 연구 중  
 - 🧑‍🏫 부산대 영재교육원 **사사교육 조교** & **C++ 프로그래밍과 실습 조교**  
-- 🛠️ 최근 관심: 멀티 스테이지 Docker 빌드 최적화 (Doctor, ISSTA '25 확장)  
+- 🛠️ 최근 관심: Dockerfile rebuild time 최적화 (Doctor, ISSTA '25 확장)  
 - 🎯 목표: 시스템 리서치에 기여할 수 있는 엔지니어 되기
 
 ---
@@ -40,7 +40,7 @@
 ## 📜 Certifications
 
 - **ADsP** (데이터분석 준전문가) [2025.11.28]
-- [AWS Cloud Quest: Generative AI Practitioner](https://www.credly.com/badges/2d6018eb-c153-4aa1-ab16-dc813f51c870/public_url) [2026.07.14]
+- **AWS Cloud Quest: Generative AI Practitioner** [2026.07.14] - [Badge](https://www.credly.com/badges/2d6018eb-c153-4aa1-ab16-dc813f51c870/public_url)
 
 
 ## 🛠️ Tech Stack
@@ -70,11 +70,10 @@
 
 <div align="center">
 
-[Beomsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitally0715&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nitally0715&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitally0715&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" />
 
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nitally0715&theme=tokyonight&hide_border=true)
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitally0715&layout=compact&theme=tokyonight&hide_border=true)
+<img height="165" src="https://streak-stats.demolab.com?user=nitally0715&theme=tokyonight&hide_border=true&background=00000000" />
 
 </div>
 
