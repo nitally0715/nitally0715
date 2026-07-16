@@ -68,11 +68,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://streak-stats.demolab.com?user=nitally0715&theme=tokyonight&hide_border=true&background=00000000" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nitally0715&show_icons=true&theme=github_dark&hide_border=true&hide=stars&show=reviews&count_private=true&custom_title=My%20Github%20Stats&card_width=300px" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nitally0715&layout=compact&theme=github_dark&hide_border=true&card_width=300px" />
+</p>
 
 ---
 
