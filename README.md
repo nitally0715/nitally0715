@@ -33,9 +33,9 @@
 ---
 
 ## 🏆 Awards
-
-- 🥈 **PNU 창의융합 AI 해커톤** (예선) — 우수상  
-- 🥈 **TechWeek Idea Contest** — 은상  
+- **TechWeek Idea Contest** - 은상 [2022.10.28]
+- **PNU 창의융합 AI 해커톤** (예선) - 우수상 [2026.05.21]
+- **AWS 클라우드 AI PBL** - 우수상 [2026.07.20] 
 
 ## 📜 Certifications
 
