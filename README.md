@@ -16,7 +16,7 @@
 
 - 🔬 현재 **CIS Lab**에서 학부연구생으로 Docker 레이어 최적화 연구 중  
 - 🧑‍🏫 부산대 영재교육원 **사사교육 조교** & **C++ 프로그래밍과 실습 조교**  
-- 🛠️ 최근 관심: Dockerfile rebuild time 최적화 (Doctor, ISSTA '25 확장)  
+- 🛠️ 현재 진행 프로젝트: Dockerfile rebuild time 최적화 (Doctor, ISSTA '25 확장)  
 - 🎯 목표: 시스템 리서치에 기여할 수 있는 엔지니어 되기
 
 ---
@@ -33,17 +33,23 @@
 
 ---
 
+## 🎓 GPA
+
+- **평균평점**: 4.34 / 4.5
+- **전공평점**: 4.29 / 4.5
+
+
 ## 🏆 Awards
 - **TechWeek Idea Contest** - 은상 [2022.10.28]
 - **PNU 창의융합 AI 해커톤** (예선) - 우수상 [2026.05.21]
-- **AWS 클라우드 AI PBL** - 우수상 (2위) [2026.07.20]
-- **PNU 창의융합 AI 해커톤** (본선) - 우수상 (DRB동일대표상) [2026.08.28]
+- **AWS 클라우드 AI PBL** - 우수상 (2위) [2026.07.20] - [CrewMate](https://github.com/dib3474/CrewMate)
+- **PNU 창의융합 AI 해커톤** (본선) - 우수상 (DRB동일대표상) [2026.08.28] - [BomdongMarket](https://github.com/PNU-2026-AI-Hackathon/pnuai-b-06-bomdongmarket)
 
 ## 📜 Certifications
 
-- **ADsP** (데이터분석 준전문가) [2025.11.28]
+- **ADsP** (데이터분석 준전문가) [2025.11.28] - [Certificate (PDF)](https://github.com/nitally0715/nitally0715/blob/main/certs/adsp.pdf)
+- **TOEIC Speaking** - IH (150) [2026.09.20] - [Certificate (PDF)](https://github.com/nitally0715/nitally0715/blob/main/certs/toeic-speaking.pdf)
 - **AWS Cloud Quest: Generative AI Practitioner** [2026.07.14] - [Badge](https://www.credly.com/badges/2d6018eb-c153-4aa1-ab16-dc813f51c870/public_url)
-
 
 ## 🛠️ Tech Stack
 
