@@ -32,10 +32,11 @@
 
 ---
 
-## 🎓 GPA (98.4)
+## 🎓 GPA
 
-- **평균평점**: 4.34 / 4.5
-- **전공평점**: 4.29 / 4.5
+- **Overall GPA**: 4.34 / 4.5
+- **Major GPA**: 4.29 / 4.5
+- **Percentage Score**: 98.4 / 100
 
 
 ## 🏆 Awards
@@ -43,11 +44,13 @@
 - **AWS 클라우드 AI PBL** - 우수상 (2위) [2026.07.20] - [CrewMate](https://github.com/dib3474/CrewMate)
 - **PNU 창의융합 AI 해커톤** (본선) - 우수상 (DRB동일대표상) [2026.08.28] - [BomdongMarket](https://github.com/PNU-2026-AI-Hackathon/pnuai-b-06-bomdongmarket)
 
+
 ## 📜 Certifications
 
 - **ADsP** (데이터분석 준전문가) [2025.11.28] - [Certificate (PDF)](https://github.com/nitally0715/nitally0715/blob/main/certs/adsp.pdf)
 - **TOEIC Speaking** - IH (150) [2026.09.20] - [Certificate (PDF)](https://github.com/nitally0715/nitally0715/blob/main/certs/toeic-speaking.pdf)
 - **AWS Cloud Quest: Generative AI Practitioner** [2026.07.14] - [Badge](https://www.credly.com/badges/2d6018eb-c153-4aa1-ab16-dc813f51c870/public_url)
+
 
 ## 🛠️ Tech Stack
 
