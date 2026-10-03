@@ -5,6 +5,7 @@
 CS Student @ Pusan National University
 
 [![Email](https://img.shields.io/badge/Email-soseze1215%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:soseze1215@gmail.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 
 </div>
 
