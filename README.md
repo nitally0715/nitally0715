@@ -1,23 +1,23 @@
 <div align="center">
 
-# 👋 Hi, I'm Beomsu Kang (강범수)
+# Hi, I'm Beomsu Kang (강범수)
 
-### CS Student @ Pusan National University · Systems & AI Enthusiast
+CS Student @ Pusan National University
 
+[![Email](https://img.shields.io/badge/Email-soseze1215%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:soseze1215@gmail.com)
 
 </div>
 
----
+
 
 ## 🧑‍💻 About Me
 
-부산대학교 정보컴퓨터공학부 3학년, 시스템·AI 융합에 관심이 있습니다. 
-컨테이너 최적화 연구부터 임베디드, 자료구조, 알고리즘 PS까지 - **낮은 레벨에서 높은 레벨까지 두루** 다뤄보는 걸 좋아합니다.
+부산대학교 정보컴퓨터공학부 3학년입니다. 클라우드, AI, 네트워크에 관심이 있습니다.
 
-- 🔬 현재 **CIS Lab**에서 학부연구생으로 Docker 레이어 최적화 연구 중  
-- 🧑‍🏫 부산대 영재교육원 **사사교육 조교** & **C++ 프로그래밍과 실습 조교**  
-- 🛠️ 현재 진행 프로젝트: **Dockerfile rebuild time 최적화** (Doctor, ISSTA '25 확장)  
-
+- **CIS Lab 학부연구생**: Docker 레이어 최적화, Agentic AI 연구
+- 현재 진행 중인 프로젝트
+  - **Dockerfile rebuild time 최적화** (Doctor, ISSTA '25 확장)
+  - **CSI 기반 재실자 탐지 시스템** - Bluetooth 파트 담당
 ---
 
 ## 💼 Experience
@@ -28,7 +28,7 @@
 | 2026.03.28 ~ 2026.08.31 | **부산대 영재교육원** | 사사교육 조교 (IT/수학 융합) |
 | 2026.03.03 ~ 2026.06.23 | **부산대 정보컴퓨터공학부** | C++프로그래밍과실습 수업 조교 |
 | 2026.05.29 ~ 2026.07.21 | **AWS, PNU AI융합교육원** | AWS Cloud PBL |
-| 2026.09.01 ~ 2026.12.21 | **부산대 정보컴퓨터공학부** | 플랫폼기반프로그래밍(Java) 수업 조교  |
+| 2026.09.01 ~ 2026.12.21 | **부산대 정보컴퓨터공학부** | 플랫폼기반프로그래밍(Java) 수업 조교 |
 
 ---
 
@@ -38,12 +38,11 @@
 - **Major GPA**: 4.29 / 4.5
 - **Percentage Score**: 98.4 / 100
 
-
 ## 🏆 Awards
+
 - **TechWeek Idea Contest** - 은상 [2022.10.28]
 - **AWS 클라우드 AI PBL** - 우수상 (2위) [2026.07.20] - [CrewMate](https://github.com/dib3474/CrewMate)
 - **PNU 창의융합 AI 해커톤** (본선) - 우수상 (DRB동일대표상) [2026.08.28] - [BomdongMarket](https://github.com/PNU-2026-AI-Hackathon/pnuai-b-06-bomdongmarket)
-
 
 ## 📜 Certifications
 
@@ -51,6 +50,7 @@
 - **TOEIC Speaking** - IH (150) [2026.09.20] - [Certificate (PDF)](https://github.com/nitally0715/nitally0715/blob/main/certs/toeic-speaking.pdf)
 - **AWS Cloud Quest: Generative AI Practitioner** [2026.07.14] - [Badge](https://www.credly.com/badges/2d6018eb-c153-4aa1-ab16-dc813f51c870/public_url)
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -67,14 +67,6 @@
 
 ---
 
-## 🎯 Interests
-
-> **Cloud** · **AI** · **Networks**
-
-컨테이너/클라우드 인프라 최적화, AI 시스템, 네트워크 프로토콜에 관심이 있습니다.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -84,8 +76,6 @@
 
 ---
 
-<div align="center">
+## 📫 Contact
 
-*"Build things that matter, one layer at a time."*
-
-</div>
+- Email: [soseze1215@gmail.com](mailto:soseze1215@gmail.com)
