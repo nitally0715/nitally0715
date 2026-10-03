@@ -10,7 +10,6 @@ CS Student @ Pusan National University
 </div>
 
 
-
 ## 🧑‍💻 About Me
 
 부산대학교 정보컴퓨터공학부 3학년입니다. 클라우드, AI, 네트워크에 관심이 있습니다.
