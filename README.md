@@ -4,8 +4,8 @@
 
 CS Student @ Pusan National University
 
-[![Email](https://img.shields.io/badge/Email-soseze1215%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:soseze1215@gmail.com)
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fnitally0715?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+[![Email](https://img.shields.io/badge/Email-soseze1215%40gmail.com-007EC6?style=flat-square&logo=gmail&logoColor=white)](mailto:soseze1215@gmail.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fnitally0715?color=007EC6&label=hits&size=small)](https://myhits.vercel.app)
 
 </div>
 
