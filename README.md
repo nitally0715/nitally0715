@@ -48,6 +48,10 @@ CS Student @ Pusan National University
 - **Major GPA**: 4.29 / 4.5
 - **Percentage Score**: 98.4 / 100
 
+## 🎖️ Scholarships
+
+- **국가우수장학금 (이공계)** - 과학기술정보통신부 [2026.03.01~2027.12.31]
+
 ## 🏆 Awards
 
 - **TechWeek Idea Contest** - 은상 [2022.10.28]
