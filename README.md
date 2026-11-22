@@ -54,9 +54,11 @@ CS Student @ Pusan National University
 
 ## 🏆 Awards
 
-- **TechWeek Idea Contest** - 은상 [2022.10.28]
-- **AWS 클라우드 AI PBL** - 우수상 (2위) [2026.07.20] - [CrewMate](https://github.com/dib3474/CrewMate)
-- **PNU 창의융합 AI 해커톤** (본선) - 우수상 (DRB동일대표상) [2026.08.28] - [BomdongMarket](https://github.com/PNU-2026-AI-Hackathon/pnuai-b-06-bomdongmarket)
+| 대회명 | 주제 | 링크 | 역할 | 수상 | 기간 |
+|:------|:-----|:----:|:-----|:----:|:----:|
+| **제7회 PNU<br>창의융합 AI 해커톤** | **FarmBroker**<br><sub>도심 공실과 스마트팜 도심농부를 연결하는 중개 플랫폼</sub> | <a href="https://pnuai-b-06-bomdongmarket.vercel.app"><img src="https://img.shields.io/badge/Live_Service-FarmBroker-204937?style=flat-square&logo=vercel&logoColor=white" /></a><br><a href="https://github.com/PNU-2026-AI-Hackathon/pnuai-b-06-bomdongmarket"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a> | **PM**<br>Agentic AI | 🥈 우수상<br><sub>[DRB동일대표상]</sub> | 2026.04.20<br>~ 2026.08.28 |
+| **AWS 클라우드<br>AI PBL** | **CrewMate**<br><sub>일용직 인력 중개 AWS 서버리스 플랫폼</sub> | <a href="https://d1872k8ivu18th.cloudfront.net"><img src="https://img.shields.io/badge/Live_Service-CrewMate-FF9900?style=flat-square&logoColor=white" /></a><br><a href="https://github.com/dib3474/CrewMate"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a> | **PM**<br>Software Design, AWS IAM 관리 등 | 🥈 우수상 | 2026.05.29<br>~ 2026.07.20 |
+| **TechWeek<br>Idea Contest** | - | - | - | 🥈 은상 | 2022.10.28 |
 
 ## 📜 Certifications
 
@@ -72,6 +74,11 @@ CS Student @ Pusan National University
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nitally0715&layout=compact&theme=github_dark&hide_border=true&card_width=300px" />
 </p>
 
+## 🧩 Problem Solving
+
+<a href="https://solved.ac/u/soseze1215">
+  <img src="https://img.shields.io/badge/solved.ac-Gold_III-EC9A00?style=for-the-badge&logoColor=white" />
+</a>
 
 ## 📫 Contact
 
