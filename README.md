@@ -7,7 +7,7 @@ CS Student @ Pusan National University
 [![Email](https://img.shields.io/badge/Email-soseze1215%40gmail.com-007EC6?style=flat-square&logo=gmail&logoColor=white)](mailto:soseze1215@gmail.com)
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fnitally0715?color=007EC6&label=hits&size=small)](https://myhits.vercel.app)
 
-</div>
+</div><br>
 
 
 ## 🧑‍💻 About Me
@@ -18,6 +18,7 @@ CS Student @ Pusan National University
 - 현재 진행 중인 프로젝트
   - **Dockerfile rebuild time 최적화** (Doctor, ISSTA '25 확장)
   - **CSI 기반 재실자 탐지 시스템** - Bluetooth 파트 담당
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -31,6 +32,8 @@ CS Student @ Pusan National University
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<br>
+<br>
 
 ## 💼 Experience
 
@@ -41,16 +44,19 @@ CS Student @ Pusan National University
 | 2026.03.03 ~ 2026.06.23 | **부산대 정보컴퓨터공학부** | C++프로그래밍과실습 수업 조교 |
 | 2026.05.29 ~ 2026.07.21 | **AWS, PNU AI융합교육원** | AWS Cloud PBL |
 | 2026.09.01 ~ 2026.12.21 | **부산대 정보컴퓨터공학부** | 플랫폼기반프로그래밍(Java) 수업 조교 |
+<br>
 
 ## 🎓 GPA
 
 - **Overall GPA**: 4.34 / 4.5
 - **Major GPA**: 4.29 / 4.5
 - **Percentage Score**: 98.4 / 100
+<br>
 
 ## 🎖️ Scholarships
 
 - **국가우수장학생 (이공계)** - 과학기술정보통신부 [2026.03.01~2027.12.31]
+<br>
 
 ## 🏆 Awards
 
@@ -59,13 +65,14 @@ CS Student @ Pusan National University
 | **제7회 PNU 창의융합<br>AI 해커톤** | **FarmBroker**<br><sub>도심 공실과 스마트팜 도심농부를 연결하는<br> 중개 플랫폼</sub> | <a href="https://pnuai-b-06-bomdongmarket.vercel.app"><img src="https://img.shields.io/badge/Live_Service-FarmBroker-204937?style=flat-square&logo=vercel&logoColor=white" /></a><br><a href="https://github.com/PNU-2026-AI-Hackathon/pnuai-b-06-bomdongmarket"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a> | **PM**<br>Agentic AI | 🥈 우수상<br><sub>DRB동일대표상</sub> | 26.05.20<br>~ 26.08.28 |
 | **AWS Cloud AI PBL** | **CrewMate**<br><sub>일용직 인력 중개 AWS 서버리스 플랫폼</sub> | <a href="https://d1872k8ivu18th.cloudfront.net"><img src="https://img.shields.io/badge/Live_Service-CrewMate-FF9900?style=flat-square&logoColor=white" /></a><br><a href="https://github.com/dib3474/CrewMate"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a> | **PM, Backend** <br>SW Design | 🥈 우수상 | 26.05.29<br>~ 26.07.29 |
 | **TechWeek<br>Idea Contest** | - | - | - | 🥈 은상 | 2022.10.28 |
+<br>
 
 ## 📜 Certifications
 
 - **ADsP** (데이터분석 준전문가) [2025.11.28] - [Certificate (PDF)](https://github.com/nitally0715/nitally0715/blob/main/certs/adsp.pdf)
 - **TOEIC Speaking** - IH (150) [2026.09.20] - [Certificate (PDF)](https://github.com/nitally0715/nitally0715/blob/main/certs/toeic-speaking.pdf)
 - **AWS Cloud Quest: Generative AI Practitioner** [2026.07.14] - [Badge](https://www.credly.com/badges/2d6018eb-c153-4aa1-ab16-dc813f51c870/public_url)
-
+<br>
 
 ## 📊 GitHub Stats
 
@@ -73,12 +80,14 @@ CS Student @ Pusan National University
   <img src="https://github-readme-stats-fast.vercel.app/api?username=nitally0715&show_icons=true&theme=github_dark&hide_border=true&hide=stars&show=reviews&count_private=true&custom_title=My%20Github%20Stats&card_width=300px" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nitally0715&layout=compact&theme=github_dark&hide_border=true&card_width=300px" />
 </p>
+<br>
 
 ## 🧩 Problem Solving
 
 <a href="https://solved.ac/u/soseze1215">
   <img src="https://img.shields.io/badge/solved.ac-Gold_III-EC9A00?style=for-the-badge&logoColor=white" />
 </a>
+<br><br>
 
 ## 📫 Contact
 
