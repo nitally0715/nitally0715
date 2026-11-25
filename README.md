@@ -14,7 +14,7 @@ CS Student @ Pusan National University
 
 부산대학교 정보컴퓨터공학부 3학년입니다. 인프라, 클라우드, 네트워크, Agentic AI에 관심이 있습니다.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nitally0715.github.io-0F172A?style=for-the-badge&logo=githubpages&logoColor=white)](https://nitally0715.github.io)
+<a href="https://nitally0715.github.io"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +43,7 @@ CS Student @ Pusan National University
 
 | 프로젝트 | 내용 | 내 역할 | 링크 |
 |:-------:|:-----|:-------|:----:|
-| **FarmBroker**<br><sub>26.05 ~ 26.08</sub> | 도심 공실과 스마트팜 도심농부를 연결하는 중개 플랫폼<br><sub>React, Spring Boot, MySQL, Docker Compose</sub> | **PM**<br>SW Design<br>Infra (Docker)<br>Agentic AI <a href="https://github.com/PNU-2026-AI-Hackathon/pnuai-b-06-bomdongmarket"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a> |
+| **FarmBroker**<br><sub>26.05 ~ 26.08</sub> | 도심 공실과 스마트팜 도심농부를 연결하는 중개 플랫폼<br><sub>React, Spring Boot, MySQL, Docker Compose</sub> | **PM**<br>SW Design<br>Infra (Docker)<br>Agentic AI | <a href="https://github.com/PNU-2026-AI-Hackathon/pnuai-b-06-bomdongmarket"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a> |
 | **CrewMate**<br><sub>26.05 ~ 26.07</sub> | 건설 일용직 인력 중개 AWS 서버리스 플랫폼<br><sub>Lambda, DynamoDB, Cognito, Bedrock, SAM</sub> | **PM**<br>SW Design<br>Backend | <a href="https://github.com/dib3474/CrewMate"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a> |
 
 
@@ -58,4 +58,4 @@ CS Student @ Pusan National University
 ## 📫 Contact
 
 - Email: [soseze1215@gmail.com](mailto:soseze1215@gmail.com)
-- Portfolio: [nitally0715.github.io](https://nitally0715.github.io)
+- [Portfolio](https://nitally0715.github.io)
