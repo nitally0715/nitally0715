@@ -5,7 +5,6 @@
 CS Student @ Pusan National University
 
 [![Email](https://img.shields.io/badge/Email-soseze1215%40gmail.com-007EC6?style=flat-square&logo=gmail&logoColor=white)](mailto:soseze1215@gmail.com)
-[![solved.ac](https://img.shields.io/badge/solved.ac-Gold_III-EC9A00?style=flat-square)](https://solved.ac/u/soseze1215)
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fnitally0715?color=007EC6&label=hits&size=small)](https://myhits.vercel.app)
 
 </div>
@@ -15,7 +14,7 @@ CS Student @ Pusan National University
 
 부산대학교 정보컴퓨터공학부 3학년입니다. 인프라, 클라우드, 네트워크, Agentic AI에 관심이 있습니다.
 
-<a href="https://nitally0715.github.io"><img src="https://img.shields.io/badge/Portfolio-334155?style=flat-square" alt="Portfolio" height="24" /></a>
+<a href="https://nitally0715.github.io"><img src="assets/portfolio-button.svg" alt="Portfolio" height="52" /></a>
 
 ## 🛠️ Tech Stack
 
