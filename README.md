@@ -12,12 +12,9 @@ CS Student @ Pusan National University
 
 ## 🧑‍💻 About Me
 
-부산대학교 정보컴퓨터공학부 3학년입니다. 클라우드, AI, 네트워크에 관심이 있습니다.
+부산대학교 정보컴퓨터공학부 3학년입니다. 인프라, 클라우드, 네트워크, Agentic AI에 관심이 있습니다.
 
-- **CIS Lab 학부연구생**: Docker 레이어 최적화, Agentic AI 연구
-- 현재 진행 중인 프로젝트
-  - **Dockerfile rebuild time 최적화** (Doctor, ISSTA '25 확장)
-  - **CSI 기반 재실자 탐지 시스템** - Bluetooth 파트 담당
+[![Portfolio](https://img.shields.io/badge/Portfolio-nitally0715.github.io-0F172A?style=for-the-badge&logo=githubpages&logoColor=white)](https://nitally0715.github.io)
 
 ## 🛠️ Tech Stack
 
@@ -26,52 +23,29 @@ CS Student @ Pusan National University
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Tools & Platforms**  
+**Infra & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-<br>
-<br>
-
-## 💼 Experience
-
-| 기간 | 소속 | 활동 |
-|------|------|------|
-| 2026.03.03 ~ ing        | **CIS Lab, PNU** | 학부연구생 (Docker Layer Optimization) |
-| 2026.03.28 ~ 2026.08.31 | **부산대 영재교육원** | 사사교육 조교 (IT/수학 융합) |
-| 2026.03.03 ~ 2026.06.23 | **부산대 정보컴퓨터공학부** | C++프로그래밍과실습 수업 조교 |
-| 2026.05.29 ~ 2026.07.21 | **AWS, PNU AI융합교육원** | AWS Cloud PBL |
-| 2026.09.01 ~ 2026.12.21 | **부산대 정보컴퓨터공학부** | 플랫폼기반프로그래밍(Java) 수업 조교 |
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 
-## 🎓 GPA
+## 🔬 Research
 
-- **Overall GPA**: 4.34 / 4.5
-- **Major GPA**: 4.29 / 4.5
-- **Percentage Score**: 98.4 / 100
-<br>
+**CIS Lab 학부연구생** (PNU): Docker 레이어 최적화, Agentic AI
 
-## 🎖️ Scholarships
-
-- **국가우수장학생 (이공계)** - 과학기술정보통신부 [2026.03.01~2027.12.31]
-<br>
-
-## 🏆 Awards
-
-| 대회명 | 주제 | 링크 | 역할 |수상| 기간 |
-|:------:|:-----:|:----:|:-----:|:------:|:----:|
-| **제7회 PNU 창의융합 <br>AI 해커톤** | **FarmBroker**<br><sub>도심 공실과 스마트팜 도심농부를 <br>연결하는 중개 플랫폼</sub> | <a href="https://pnuai-b-06-bomdongmarket.vercel.app"><img src="https://img.shields.io/badge/Live_Service-FarmBroker-204937?style=flat-square&logo=vercel&logoColor=white" /></a><br><a href="https://github.com/PNU-2026-AI-Hackathon/pnuai-b-06-bomdongmarket"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a> | **PM**<br>Agentic AI | 🥈 우수상<br><sub>DRB동일대표상</sub> | 26.05.20<br>~ 26.08.28 |
-| **AWS Cloud AI PBL** | **CrewMate**<br><sub>일용직 인력 중개 플랫폼<br> AWS 서버리스 플랫폼</sub> | <a href="https://d1872k8ivu18th.cloudfront.net"><img src="https://img.shields.io/badge/Live_Service-CrewMate-FF9900?style=flat-square&logoColor=white" /></a><br><a href="https://github.com/dib3474/CrewMate"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a> | **PM, Backend** <br>SW Design | 🥈 우수상 | 26.05.29<br>~ 26.07.29 |
-| **TechWeek<br>Idea Contest** | - | - | - | 🥈 은상 | 2022.10.28 |
+- **Dockerfile rebuild time 최적화**: Doctor (ISSTA '25)를 확장해 이미지 레이어 구성을 최적화하고 재빌드 시간을 줄이는 연구
+- **CSI 기반 재실자 탐지 시스템**: Wi-Fi CSI 재실자 탐지 프로젝트의 Bluetooth 파트 담당
 
 
-## 📜 Certifications
+## 🚀 Projects
 
-- **ADsP** (데이터분석 준전문가) [2025.11.28] - [Certificate (PDF)](https://github.com/nitally0715/nitally0715/blob/main/certs/adsp.pdf)
-- **TOEIC Speaking** - IH (150) [2026.09.20] - [Certificate (PDF)](https://github.com/nitally0715/nitally0715/blob/main/certs/toeic-speaking.pdf)
-- **AWS Cloud Quest: Generative AI Practitioner** [2026.07.14] - [Badge](https://www.credly.com/badges/2d6018eb-c153-4aa1-ab16-dc813f51c870/public_url)
-<br>
+| 프로젝트 | 내용 | 내 역할 | 링크 |
+|:-------:|:-----|:-------|:----:|
+| **FarmBroker**<br><sub>26.05 ~ 26.08</sub> | 도심 공실과 스마트팜 도심농부를 연결하는 중개 플랫폼<br><sub>React, Spring Boot, MySQL, Docker Compose</sub> | **PM**<br>SW Design<br>Infra (Docker)<br>Agentic AI <a href="https://github.com/PNU-2026-AI-Hackathon/pnuai-b-06-bomdongmarket"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a> |
+| **CrewMate**<br><sub>26.05 ~ 26.07</sub> | 건설 일용직 인력 중개 AWS 서버리스 플랫폼<br><sub>Lambda, DynamoDB, Cognito, Bedrock, SAM</sub> | **PM**<br>SW Design<br>Backend | <a href="https://github.com/dib3474/CrewMate"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white" /></a> |
+
 
 ## 📊 GitHub Stats
 
@@ -80,13 +54,8 @@ CS Student @ Pusan National University
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nitally0715&layout=compact&theme=github_dark&hide_border=true&card_width=300px" />
 </p>
 
-## 🧩 Problem Solving
-
-<a href="https://solved.ac/u/soseze1215">
-  <img src="https://img.shields.io/badge/solved.ac-Gold_III-EC9A00?style=for-the-badge&logoColor=white" />
-</a>
-<br>
 
 ## 📫 Contact
 
 - Email: [soseze1215@gmail.com](mailto:soseze1215@gmail.com)
+- Portfolio: [nitally0715.github.io](https://nitally0715.github.io)
